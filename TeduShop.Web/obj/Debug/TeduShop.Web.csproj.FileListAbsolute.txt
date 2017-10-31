@@ -56,6 +56,7 @@ D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Web\bin\TeduShop.Model.pdb
 D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Web\bin\TeduShop.Service.pdb
 D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Web\bin\EntityFramework.xml
 D:\TEDU\Finally\Source Code\TeduShop\TeduShop.Web\bin\EntityFramework.SqlServer.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\obj\Debug\TeduShop.Web.csprojResolveAssemblyReference.cache
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\roslyn\csc.exe
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -111,6 +112,5 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Newtonsoft.Json.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Net.Http.Formatting.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Web.Http.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\System.Web.Http.WebHost.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.Web\obj\Debug\TeduShop.Web.csprojResolveAssemblyReference.cache
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\obj\Debug\TeduShop.Web.pdb

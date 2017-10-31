@@ -47,6 +47,7 @@ D:\TEDU\Finally\Source Code\TeduShop\TeduShop.UnitTest\bin\Debug\System.Web.WebP
 D:\TEDU\Finally\Source Code\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
 D:\TEDU\Finally\Source Code\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
 D:\TEDU\Finally\Source Code\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\roslyn\csc.exe
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -95,6 +96,5 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
-D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
