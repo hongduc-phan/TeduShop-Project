@@ -27,3 +27,9 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Data\bin\Debug\EntityFramework.SqlServe
 D:\TEDU\Finally\Source Code\Git\TeduShop.Data\obj\Debug\TeduShop.Data.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
 D:\TEDU\Finally\Source Code\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.AddErrorTable.resources
+D:\TEDU\Finally\Source Code\Git\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.IntergrateAspnetIdentity.resources
+D:\TEDU\Finally\Source Code\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.Changkey.resources

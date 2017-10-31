@@ -127,3 +127,15 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.d
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\AutoMapper.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\AutoMapper.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.xml
