@@ -98,3 +98,8 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\Newtonsoft.Json.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.dll.config
+D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\Moq.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.UnitTest\bin\Debug\Moq.xml
