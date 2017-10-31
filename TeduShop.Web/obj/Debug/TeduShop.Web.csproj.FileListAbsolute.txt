@@ -125,3 +125,5 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Autofac.Integration.WebApi.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\AutoMapper.dll
+D:\TEDU\Finally\Source Code\Git\TeduShop.Web\bin\AutoMapper.xml
