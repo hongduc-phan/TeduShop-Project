@@ -14,5 +14,6 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\EntityFramework.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\EntityFramework.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\obj\Debug\TeduShop.Model.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
