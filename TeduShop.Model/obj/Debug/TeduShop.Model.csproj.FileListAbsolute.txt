@@ -20,3 +20,4 @@ D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identi
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\TEDU\Finally\Source Code\Git\TeduShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TEDU\Finally\Source Code\Git\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
